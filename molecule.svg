@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 410 205">
+<defs>
+<radialGradient id="c" cx=".28" cy=".2" r=".85"><stop stop-color="#e6ffd0"/><stop offset=".25" stop-color="#bbef80"/><stop offset=".61" stop-color="#80b759"/><stop offset=".88" stop-color="#3b7146"/><stop offset="1" stop-color="#346047"/></radialGradient>
+<radialGradient id="h" cx=".30" cy=".22" r=".85"><stop stop-color="#ffffee"/><stop offset=".25" stop-color="#e0ebc6"/><stop offset=".67" stop-color="#a2b79e"/><stop offset="1" stop-color="#607b6b"/></radialGradient>
+<linearGradient id="s" x2="1" y2=".6"><stop stop-color="#607f69"/><stop offset=".48" stop-color="#dbe7c4"/><stop offset="1" stop-color="#657e65"/></linearGradient>
+<pattern id="grid" width="23" height="23" patternUnits="userSpaceOnUse" patternTransform="matrix(1 -.24 .65 .64 -10 60)"><path d="M23 0H0V23" fill="none" stroke="#a7dfac" opacity=".22"/></pattern>
+</defs>
+<path d="M0 34l188-33 222 58v107l-222 38L0 145z" fill="url(#grid)"/>
+<g stroke-linecap="round" stroke="url(#s)" stroke-width="10"><path d="M160 124l-49-49m49 49l-53 33m53-33l14 46m-14-46l77-50m0 0l-12-46m12 46l57 20m-57-20l45-37"/></g>
+<g fill="url(#h)"><circle cx="225" cy="28" r="13"/><circle cx="282" cy="37" r="16"/><circle cx="111" cy="75" r="16"/><circle cx="174" cy="170" r="15"/></g>
+<circle cx="237" cy="74" r="29" fill="url(#c)"/><circle cx="160" cy="124" r="32" fill="url(#c)"/><g fill="url(#h)"><circle cx="294" cy="94" r="19"/><circle cx="107" cy="157" r="19"/></g>
+<g fill="none" stroke="#c4e6ac" opacity=".6"><path d="M267 66l47-30h33M130 117H94L75 99H50"/><circle cx="348" cy="36" r="2.5"/><circle cx="49" cy="99" r="2.5"/></g></svg>
